@@ -1,7 +1,7 @@
 # ActiveBox.github.io
 Awesome landing page using HTML/CSS/jQuery
 
-You can look at it [here](https://ihor-onyshchuk.github.io/ActiveBox.github.io/. )
+You can look at it [here](https://ihor-onyshchuk.github.io/ActiveBox/. )
 ---
 ![cover for app](https://github.com/Ihor-Onyshchuk/ActiveBox.github.io/blob/master/preview.png "Cover of simple layout")
 
